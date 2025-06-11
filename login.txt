@@ -1,0 +1,1 @@
+Este módulo permite que los usuarios inicien sesión con correo y contraseña.
